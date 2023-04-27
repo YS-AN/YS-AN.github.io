@@ -51,7 +51,6 @@ Gemfile.lock
 # Jekyll cache
 .jekyll-cache
 .sass-cache
-_site
 
 # IDE configurations
 .idea
