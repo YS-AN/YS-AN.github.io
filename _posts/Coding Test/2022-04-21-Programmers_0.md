@@ -2,7 +2,7 @@
 title : "[프로그래머스] Level별 모음집"
 author : YS_AN
 date : 2022-04-21 11:56:01 +0900
-categories : [코딩테스트, 코딩테스트 목차]
+categories : [코딩테스트, 목차]
 tags : [코딩테스트, 프로그래머스]
 ---
 
