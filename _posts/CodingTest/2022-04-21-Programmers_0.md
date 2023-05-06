@@ -13,10 +13,13 @@ tags : [코딩테스트, 프로그래머스]
 [[Lv.1] 가운데 글자 가져오기](/posts/Programmers_1290) <br>
 [[Lv.1] 소수 만들기](/posts/Programmers_12977) <br>
 [[Lv.1] 체육복](/posts/Programmers_42862) <br>
+[[Lv.1] 신고 결과 받기](/posts/Programmers_92334) <br>
 [[Lv.1] 성격 유형 검사하기](/posts/Programmers_118666) <br>
 [[Lv.1] 삼총사](/posts/Programmers_131705) <br>
+[[Lv.1] 푸드 파이터 대회](/posts/Programmers_134240) <br>
 [[Lv.1] 크기가 작은 부분문자열](/posts/Programmers_147355) <br>
 [[Lv.1] 달리기 경주](/posts/Programmers_178871) <br>
+
 
 ## Lv.2
 [[Lv.2] 올바른 괄호](/posts/Programmers_12909) <br>
