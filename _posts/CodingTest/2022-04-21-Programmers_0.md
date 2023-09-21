@@ -31,5 +31,6 @@ tags : [코딩테스트, 프로그래머스]
 [[Lv.2] 호텔 대실](/posts/Programmers_15561) <br>
 [[Lv.2] 조이스틱](/posts/Programmers_42860) <br>
 [[Lv.2] 최댓값과 최솟값](/posts/Programmers_59038) <br>
+[[Lv.2] 삼각 달팽이](/posts/Programmers_68645) <br>
 [[Lv.2] 귤 고르기](/posts/Programmers_138476) <br>
 [[Lv.2] 마법의 엘리베이터](/posts/Programmers_148653) <br>
