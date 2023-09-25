@@ -29,11 +29,8 @@ description: >- # used by seo meta and the atom feed
 url: https://YS-AN.github.io
 
 github:
-  username: github_username # change to your github username
-
-twitter:
-  username: twitter_username # change to your twitter username
-
+  username: YS-AN # change to your github username
+  
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
