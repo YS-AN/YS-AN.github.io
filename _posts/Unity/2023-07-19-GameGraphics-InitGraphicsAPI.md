@@ -17,6 +17,8 @@ GPU는 CPU에 비해 상대적으로 느리기 때문에 CPU가 요청하는 그
 
 여기서 CPU가 GPU에게 그래픽 작업을 수행하도록 <span style='background-color: #FBECDD'>커맨드 큐에 요청을 넣는 행위를 드로우 콜(Draw Call)</span>이라고 한다.
 (처리할 양이 많아졌다 = 드로우 콜이 많다.)
+![드로우콜 이미지](../../assets/img//post/Unity/GameGraphics/071901_DrawCall.PNG)
+
 
 ## 드로우 콜
 
