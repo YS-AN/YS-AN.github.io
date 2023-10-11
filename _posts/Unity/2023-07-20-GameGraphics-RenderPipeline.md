@@ -21,7 +21,7 @@ tags : [Unity, 기술면접]
 3D 장면에서 표현되는 오브젝트들은 위치, 색상 법선, UV등 정점들의 정보로 구성되어 있다. CPU는 메시를 그리기 위해 필요한 정점의 정보를 정점 버퍼 형태로 GPU에 전달하고, 정점 버퍼를 전달받은 GPU는 정점 서설자에게 정의된 규칙으로 정점 데이터로 조립한다.
 이후 정점 데이터를 다른 파이프라인 단계에서 사용 가능하도록 삼각형과 같은 기본 도형으로 조립힌다. 
 
-![입력조립 이미지](../../assets/img//post/Unity/GameGraphics/072001_InputAssembler.PNG)
+![입력조립 이미지](../../assets/img//post/Unity/GameGraphics/072001_InputAssembler.png)
 
 <details>
 <summary markdown="span"> 
