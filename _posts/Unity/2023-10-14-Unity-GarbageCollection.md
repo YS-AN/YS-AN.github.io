@@ -2,7 +2,7 @@
 title : Garbage Collection
 author : YS_AN
 date : 2023-10-14 20:24:13 +0900
-categories : [Unity, Unity]
+categories : [Unity, UnityInfo]
 tags : [Unity, 기술면접]
 ---
 
@@ -13,6 +13,8 @@ tags : [Unity, 기술면접]
 참조형 변수가 생성되면 Heap 메모리 영역에 객체가 할당된다. <br/>
 이 때 메모리 첫 영역부터 차례대로 할당하게 되고, 할당이 가능한 부분의 첫 주소를 포인터로 가리킨다. (메모리 할당 영역을 찾는 과정이 없어져서 처리 속도가 빨리진다)  <br/>
 ⇒ 스택 메모리에 주소 값을 담아두고 힙 메모리에 접근하는 방식으로 저장되어 있다.
+
+![메모리할당 이미지](../../assets/img/post/Unity/UnityInfo/101401_MemoryAllocation.jpg)
 
 ## 메모리 해제 (GC 동작방식)
 C#과 Unity의 GC 동작 방식이 다름 
@@ -63,8 +65,8 @@ C#과 Unity의 GC 동작 방식이 다름
 ## 메모리 구조
 
 <table>
-  <tr>
-    <td rowspan='5' width="30%"><img src="../../assets/img//post/Unity/Unity/101401_MemoryStructure.png"></td>
+  <tr align=center>
+    <td rowspan='5' width="30%"><img src="../../assets/img/post/Unity/UnityInfo/101401_MemoryStructure.png"></td>
     <td width="10%">영역</td>
     <td width="45%">설명</td>
     <td width="15%">적용</td>
