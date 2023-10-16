@@ -65,9 +65,9 @@ C#과 Unity의 GC 동작 방식이 다름
 <table>
   <tr>
     <td rowspan='5' width="30%"><img src="../../assets/img//post/Unity/Unity/101401_MemoryStructure.png"></td>
-    <td>영역</td>
-    <td>설명</td>
-    <td>적용</td>
+    <td width="10%">영역</td>
+    <td width="45%">설명</td>
+    <td width="15%">적용</td>
   </tr>
   <tr>
     <td>CODE</td>
