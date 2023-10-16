@@ -2,7 +2,7 @@
 title : Garbage Collection
 author : YS_AN
 date : 2023-10-14 20:24:13 +0900
-categories : [Unity]
+categories : [Unity, Unity]
 tags : [Unity, 기술면접]
 ---
 
