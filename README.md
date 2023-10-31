@@ -1,9 +1,11 @@
 ## Study Jouranl 
-공부 기록 블로그 
+[공부 기록 블로그](https://ys-an.github.io/categories/)
 
----
-
-목차
+### 목차
+* CSharp (목차 : Notion 링크)
+* Computer Science
+* Unity
+* 자료구조 알고리즘 (목차 : Notion 링크)
 * 코딩 테스트
 
 ## Git theme 
