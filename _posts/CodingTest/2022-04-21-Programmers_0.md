@@ -27,7 +27,7 @@ tags : [코딩테스트, 프로그래머스]
 [[Lv.1] 달리기 경주](/posts/Programmers_178871) <br>
 
 ## Lv.2
-[[Lv.2] 호텔 대실](/posts/Programmers_1844) <br>
+[[Lv.2] 게임 맵 최단거리](/posts/Programmers_1844) <br>
 [[Lv.2] 올바른 괄호](/posts/Programmers_12909) <br>
 [[Lv.2] 조이스틱](/posts/Programmers_42860) <br>
 [[Lv.2] 타겟 넘버](/posts/Programmers_43165) <br>
