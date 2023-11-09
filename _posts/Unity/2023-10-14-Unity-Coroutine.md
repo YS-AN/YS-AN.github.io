@@ -43,17 +43,18 @@ StopAllCoroutines(); //모든 코루틴을 종료
 * yield break를 만나면 코루틴이 종료된다.
 <br/>
 
-yield return + 종류(조건) 
+**[ yield return + 종류(조건) ]**
+
 |종류(조건)|설명|
 |---|---|
 |null|다음 프레임까지 대기 (Update()가 끝날 때 호출)|
-|new WaitForEndOfFrame()|모든 랜더링 작업이 끝날 때까지 대기 (한 프레임워크가 완전히 종료될 때 호출)|
+|new WaitForEndOfFrame()|모든 랜더링 작업이 끝날 때까지 대기 <br/>(한 프레임워크가 완전히 종료될 때 호출)|
 |new WaitForFixedUpdate()|FixedUpdate가 끝날 때 호출|
 |new WaitForSeconds(float)|지정한 초(float)만큼 대기 후 호출|
 |new WaitForSecondsRealtime(float)|지정한 초(float)만큼 대기 후 호출 <br/>(단, Time.timeScale의 영향을 받지 않는 절대적인 시간만큼 대기함)|
 |new startCoroutine(string)|다른 코루틴이 끝날 때까지 대기|
-|new WaitWhile(bool)|update와 LateUpdate 사이에서 호출되며, 결과값이 만족하면 대기, 만족하지 않으면 yield return 이후 구문이 실행됩니다. |
-|new WaitUntil(bool)|update와 LateUpdate 사이에서 호출되며, WaitWhiler과 반대로 결과값이 만족하면 yield return 이후 구문이 실행됩니다. |
+|new WaitWhile(bool)|update와 LateUpdate 사이에서 호출되며, 결과값이 만족하면 대기, <br/>만족하지 않으면 yield return 이후 구문이 실행됩니다.|
+|new WaitUntil(bool)|update와 LateUpdate 사이에서 호출되며, WaitWhiler과 반대로 <br/>결과값이 만족하면 yield return 이후 구문이 실행됩니다.|
 
 ⇒ yield return을 사용하여 반환 위치를 기억하다가 다음 호출 때 반환 위치 이후부터 실행할 수 있도록 한다.
 

@@ -1,5 +1,5 @@
 ---
-title : Unity 동작방식
+title : Unity 동작방식1
 author : YS_AN
 date : 2023-10-17 19:45:11 +0900
 categories : [Unity, UnityInfo]
